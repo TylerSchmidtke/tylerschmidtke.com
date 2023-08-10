@@ -76,7 +76,7 @@ title = "Resume"
     * Developed a deployment services training program for Rapid7 partners including course content, lab environments,
       exams, and a fully automated exam grading system using Ruby and Google scripts
 
-### IT Security Engineer – Sweetwater Sound<br>Jan 2016 – Mar 2017
+### IT Security Engineer – Sweetwater<br>Jan 2016 – Mar 2017
 
 * Lead IT infrastructure, network, and software development security initiatives
 * Configuration management and automation of Linux/MacOS systems and Cisco network infrastructure within Sweetwater's
@@ -91,7 +91,7 @@ title = "Resume"
   assessment, and information security risk assessment
 * Presentation of findings from assessments to client executives and stakeholders
 
-### IT Support Specialist – Sweetwater Sound<br>Sep 2014 – May 2015
+### IT Support Specialist – Sweetwater<br>Sep 2014 – May 2015
 
 * Design and implementation of an OS X management solution using open-source technologies and custom-developed
   applications
