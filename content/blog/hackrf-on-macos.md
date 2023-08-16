@@ -115,7 +115,7 @@ the instructions in the docs: [Updating Firmware](https://hackrf.readthedocs.io/
 To verify that everything is installed correctly, open `gnuradio-companion` from with your `gnuradio` conda environment
 activated. You should see something like this:
 
-![GNURadio Companion](/img/gnuradio-companion.png)
+![GNURadio Companion](/img/hackrf-on-macos/gnuradio-companion.png)
 
 Click the Search button in the menu bar and search for `osmocom Source` in the blocks library on the right. You should
 see the `osmocom Source` block in the list. Drag it onto the canvas. Next double click the `osmocom Source` block to
