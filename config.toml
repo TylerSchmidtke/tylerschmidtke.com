@@ -34,6 +34,15 @@ socials = [
     { name = "linkedin", url = "https://linkedin.com/in/tylerschmidtke", icon = "linkedin" },
 ]
 
+allowed_domains = [
+    { directive = "font-src", domains = ["'self'", "data:"] },
+    { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
+    { directive = "script-src", domains = ["'self'"] },
+    { directive = "style-src", domains = ["'self'"] },
+    { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
+    { directive = "connect-src", domains = ["https://plausible.io"] }
+]
+
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup
 [extra.giscus]
