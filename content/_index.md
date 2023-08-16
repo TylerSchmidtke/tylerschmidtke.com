@@ -1,10 +1,11 @@
 +++
 title = "Latest Posts"
-paginate_by = 5 # Set the number of posts per page
 template = "index.html"
 
 [extra]
 header = { title = "👋 Hey, I'm Tyler!", img = "$BASE_URL/img/me_circle.webp" }
+section_path = "blog/_index.md"
+max_posts = 5
 +++
 
 I'm a software engineering manager with a passion for building great software products with a career focus on
