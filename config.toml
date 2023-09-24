@@ -30,7 +30,7 @@ menu = [
 
 socials = [
     { name = "github", url = "https://github.com/tylerschmidtke/", icon = "github" },
-    { name = "mastodon", url = "https://mastodon.social/@tylerschmidtke", icon = "mastodon" },
+    { name = "mastodon", url = "https://hachyderm.io/@tylerschmidtke", rel = "me", icon = "mastodon" },
     { name = "linkedin", url = "https://linkedin.com/in/tylerschmidtke", icon = "linkedin" },
 ]
 
