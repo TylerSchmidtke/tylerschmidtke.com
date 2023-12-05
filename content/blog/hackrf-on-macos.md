@@ -78,7 +78,7 @@ With `miniconda` installed, we can use it to install `gnuadio` and the `gr-osmos
     ```bash
      conda config --env --add channels conda-forge
      conda config --env --set channel_priority strict
-     conda install gnuradio gr-osmosdr
+     conda install gnuradio gnuradio-osmosdr
      ```
 
 ### Installing HackRF Tools
