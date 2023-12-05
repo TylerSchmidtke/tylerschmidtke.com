@@ -34,9 +34,9 @@ install was missing some components that were used in the first lesson, namely t
 off to install the [gr-osmosdr](https://osmocom.org/projects/gr-osmosdr/wiki/GrOsmoSDR) module from source, which
 seemingly went fine, but I honestly didn't have a clue
 where to set the library path so that GNURadio could find the module. I found that I could install GNURadio and
-gr-osmosdr via MacPorts which I wasn't too keen on, so I poked around a bit more and found that GNURadio and gr-osmosdr
-could be installed using Anaconda. This simplified the installation process and everything was up and running in no
-time.
+gr-osmosdr via MacPorts which I wasn't too keen on, so I poked around a bit more and found that GNURadio and gr-osmosdr 
+(packaged as gnuradio-osmosdr) could be installed using Anaconda. This simplified the installation process and everything 
+was up and running in no time.
 
 ### Installing MiniConda
 
@@ -57,9 +57,9 @@ Next use Homebrew again to install MiniConda:
 brew install miniconda
 ```
 
-### Installing GNURadio and gr-osmosdr
+### Installing GNURadio and gnuradio-osmosdr
 
-With `miniconda` installed, we can use it to install `gnuadio` and the `gr-osmosdr` module:
+With `miniconda` installed, we can use it to install `gnuadio` and the `gnuradio-osmosdr` module:
 
 1. Start by creating a new conda environment:
 
@@ -73,7 +73,7 @@ With `miniconda` installed, we can use it to install `gnuadio` and the `gr-osmos
     conda activate gnuradio
     ```
 
-3. Install GNURadio and gr-osmosdr:
+3. Install GNURadio and gnuradio-osmosdr:
 
     ```bash
      conda config --env --add channels conda-forge
