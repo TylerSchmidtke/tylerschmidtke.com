@@ -11,7 +11,7 @@ title = "Resume"
 
 ### Senior Software Engineering Manager - Automox<br>Oct 2024 – Present
 
-### Software Engineering Manager - Automox<br>Jul 2022 – Sept 2024
+### Software Engineering Manager - Automox<br>Jul 2022 – Oct 2024
 
 * (Present) Management and technical leadership of the teams responsible for building Automox's endpoint software and the platform
   services that support our endpoint management experience including agent communication, data ingestion, processing, and core product
@@ -26,7 +26,7 @@ title = "Resume"
   and a new [reporting feature](https://help.automox.com/hc/en-us/articles/10402651969684-Policy-Results-Report).
 * Collaboration with senior leadership to shape the culture and direction of the Engineering organization.
 * Career development planning including alignment of individual goals with opportunities within a report's respective
-  team team and beyond to support their professional goals and increases the impact of their contributions at Automox.
+  team team and beyond to support their professional goals and increase the impact of their contributions at Automox.
 
 ### Senior Software Engineer – Automox<br>Jun 2021 – Jun 2022
 
