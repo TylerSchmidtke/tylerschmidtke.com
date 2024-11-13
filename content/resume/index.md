@@ -9,9 +9,16 @@ title = "Resume"
 
 ## Experience
 
-### Software Engineering Manager - Automox<br>Jul 2022 – Present
+### Senior Software Engineering Manager - Automox<br>Oct 2024 – Present
 
-* Management and technical leadership of two high-velocity engineering teams and one documentation team, 10 direct
+### Software Engineering Manager - Automox<br>Jul 2022 – Sept 2024
+
+* (Present) Management and technical leadership of the teams responsible for building Automox's endpoint software and the platform
+  services that support our endpoint management experience including agent communication, data ingestion, processing, and core product
+  functionality.
+* In January 2024 I transitioned my prior teams to a new engineering manager and took on management of Automox's Agent
+  and Agent Services teams, 13 direct reports.
+* (Pre-January 2024) Management and technical leadership of two high-velocity engineering teams and one documentation team, 10 direct
   reports.
 * Technical guidance and support for the delivery of multiple new product features
   including [OttoAI (OpenAI integration)](https://www.automox.com/resources/ask-otto), a
@@ -28,7 +35,7 @@ title = "Resume"
   Automox's [Automated Vulnerability Remediation](https://www.automox.com/features/vulnerability-remediation) feature.
   Technologies incorporated into the design include Go REST API services, DynamoDB, Kafka, KMS, and Kubernetes for
   deployment
-    * The release of the feature included a joint presentation with Rapid7 at their RSA 2022 Booth
+  * The release of the feature included a joint presentation with Rapid7 at their RSA 2022 Booth
 * Development of an internal shared Kafka library in Go that provides common interfaces and built-in producer/consumer
   tracing instrumentation which is used across multiple Automox platform services
 * Development of
@@ -55,13 +62,13 @@ title = "Resume"
 
 * Development and deployment of integration software in Python and Ruby for Rapid7 Professional Services customers,
   working directly with customers to meet their requirements and ensure customer success.
-    * Integrations interfaced with a variety of technologies including REST APIs, SOAP APIs, Databases, Configuration
+  * Integrations interfaced with a variety of technologies including REST APIs, SOAP APIs, Databases, Configuration
       Management
 * Code review and mentorship for the broader Rapid7 Enterprise Security Consulting team
 * Notable projects:
-    * Design and development of a modular IT ticketing integration in Python for Rapid7’s InsightVM product with generic
+  * Design and development of a modular IT ticketing integration in Python for Rapid7’s InsightVM product with generic
       interfaces for asynchronous service connectivity, data sources, and outputs
-    * Development of multiple high-use Rapid7 InsightConnect plugins including the Gmail, Rapid7 InsightVM, and
+  * Development of multiple high-use Rapid7 InsightConnect plugins including the Gmail, Rapid7 InsightVM, and
       VirusTotal plugins
 
 ### Enterprise Security Consultant – Rapid7<br>Mar 2017 – Sep 2018
@@ -72,8 +79,8 @@ title = "Resume"
 * Developed custom SQL queries to drive data analytics using Rapid7 product data
 * Consulted customers on leveraging Rapid7’s product suite to improve their vulnerability management program
 * Notable projects:
-    * Development of an automated build pipeline for a custom Ubuntu OVA using HashiCorp Packer, Jenkins, and Ansible
-    * Developed a deployment services training program for Rapid7 partners including course content, lab environments,
+  * Development of an automated build pipeline for a custom Ubuntu OVA using HashiCorp Packer, Jenkins, and Ansible
+  * Developed a deployment services training program for Rapid7 partners including course content, lab environments,
       exams, and a fully automated exam grading system using Ruby and Google scripts
 
 ### IT Security Engineer – Sweetwater<br>Jan 2016 – Mar 2017
@@ -114,6 +121,6 @@ Docker, Packer<br>
 
 ### Networking B.S – Indiana Tech<br>May 2015
 
-- Member - Alpha Chi Honors Society
-- Linux Administrator - Indiana Tech Cyber Defense Team 2013 – 2015
-- Mentor - Indiana Tech Engineering Summer Camp 2013 – 2014
+* Member - Alpha Chi Honors Society
+* Linux Administrator - Indiana Tech Cyber Defense Team 2013 – 2015
+* Mentor - Indiana Tech Engineering Summer Camp 2013 – 2014
